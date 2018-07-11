@@ -1,0 +1,32 @@
+item {
+  id: 1
+  name: 'sale'
+}
+item {
+  id: 2
+  name: 'tonnoRio'
+}
+item {
+  id: 3
+  name: 'risotti'
+}
+item {
+  id: 4
+  name: 'granRisparmio'
+}
+item {
+  id: 5
+  name: 'skipper'
+}
+item {
+  id: 6
+  name: 'colgate'
+}
+item {
+  id: 7
+  name: 'scotti'
+}
+item {
+  id: 8
+  name: 'mano'
+}
